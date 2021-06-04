@@ -1,0 +1,26 @@
+.container{
+	height: 500px;
+	width: 100%;
+	text-align: center;
+}
+
+.container > h1{
+	position: absolute;
+	font-size: 50px;
+	width: 25%;
+	left: 36%;
+	font-weight: bold;
+}
+#bgChange{
+	position: absolute;
+    top: 250px;
+    bottom: 250px;
+    width: 60%;
+    height: 25%;
+    right: 20%;
+    font-size: 30px;
+    color: white;
+    border-radius: 35px;
+    background-color: black;
+    cursor: pointer;
+}
